@@ -1,0 +1,18 @@
+.newsLatter {
+    background-image: url(https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/bg-1.jpg);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+    border-radius: 20px;
+    margin-bottom: -20px;
+    margin-top: 60px;
+   
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px) {
+    .newsLatter {
+        display: inline-block;
+    }
+
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Chrome Watch",
+        " description": "The Pocavi Chrome Watch is made with a 316L Stainless steel polish and brushed case which houses a powerful top of the line Swiss ETA ",
+        "image": "https://i.ibb.co/51Tjy7b/pr8-1.jpg",
+        "category": "watches",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "PlayStation 5",
+        "description": "with and without a 4K Blu-ray drive. Supporting a 120Hz video refresh, the PS5 is considerably more powerful than the PS4 and PS4 Pro.",
+        "image": "https://i.ibb.co/FKf11bh/pr1-1.jpg",
+        "category": "gadgets",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Tablet X5",
+        " description": "The Infinix X5 Pro gaming tablet is one of the most outstanding gaming tablets in the market.",
+        "image": "https://i.ibb.co/JB0XgRT/cat4-1.jpg",
+        "category": "smartphones",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "PlayStation Headset",
+        " description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/16MDg04/cat2-1.jpg",
+        "category": "headphones",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "iPhone 14 Pro",
+        " description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/xDVtKd7/pr4-1.jpg",
+        "category": "smartphones",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "VR Gaming",
+        " description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/yRxT7cv/pr5-1-600x600.jpg",
+        "category": "gaming",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Wireless Controller 5",
+        " description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/CWHzKyQ/pr6-1.jpg",
+        "category": "gaming",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Xbox One",
+        " description": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://i.ibb.co/R7v6s5x/pr7-1.jpg",
+        "category": "gaming",
+        "price": 12.9
+    }
+   
+]

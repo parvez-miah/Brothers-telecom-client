@@ -1,0 +1,30 @@
+.single-elements img{
+width: 300px;
+border-radius: 140px;
+
+}
+.single-elements button{
+width: 180px;
+border-radius: 140px;
+margin-top: -10px;
+background-color: white;
+
+}
+.single-elements {
+
+padding: 30px;
+margin-top: 50px;
+}
+.categories-elements{
+    display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin: 30px;
+}
+
+
+@media only screen and (max-width: 600px) and (min-width: 400px) {
+    .categories-elements {
+        display: grid;
+            grid-template-columns: 1fr 1fr;
+    }
+}

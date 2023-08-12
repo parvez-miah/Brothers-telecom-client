@@ -1,0 +1,46 @@
+.nav-bar {
+    font-family: 'Source Serif Pro', serif;
+
+    color: rgb(0, 0, 0);
+
+}
+
+.login-btn a {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.nav-bar img {
+    width: 127.45px;
+    height: 48px;
+}
+
+nav img {
+    margin-left: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+
+.nav-link a {
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 6px;
+    color: rgb(0, 0, 0);
+}
+
+
+.user-name {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.login-btn {
+    color: white;
+}
+.btn-logOut {
+    width: 100px;
+    height: 30px;
+}
